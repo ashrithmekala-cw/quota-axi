@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.70](https://github.com/kunchenguid/quota-axi/compare/quota-axi-v0.1.69...quota-axi-v0.1.70) (2026-11-24)
+
+
+### Features
+
+* add opt-in multiple Codex home lanes ([#390](https://github.com/kunchenguid/quota-axi/issues/390)) ([053d364](https://github.com/kunchenguid/quota-axi/commit/053d364b856c2cd469882a53f3aaf27096fa23d8))
+
 ## [0.1.69](https://github.com/kunchenguid/quota-axi/compare/quota-axi-v0.1.68...quota-axi-v0.1.69) (2026-10-29)
 
 
